@@ -1,2 +1,3 @@
 # Qr-code-generator
-Make a qr code of your own ... 
+
+## Module used - [pyqrcode](https://pypi.org/project/PyQRCode/)
